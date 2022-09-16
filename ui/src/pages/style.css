@@ -1,0 +1,13 @@
+img {
+    max-width: 400px;
+}
+
+body {
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#app-content {
+    max-width: 500px;
+}
