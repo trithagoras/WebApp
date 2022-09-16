@@ -21,4 +21,4 @@ liked or disliked images
 
 ## Example
 
-![](https://imgur.com/a/gIHSQcb)
+![](https://i.imgur.com/jRo6a3N.mp4)
