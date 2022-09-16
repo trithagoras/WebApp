@@ -18,3 +18,7 @@ liked or disliked images
 5. navigate to `/ui/`
 6. run `npm install`
 7. run `npm start`
+
+## Example
+
+![](https://imgur.com/a/gIHSQcb)
